@@ -1,0 +1,14 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "koko-credit-cards",
+  "version": "1.1.0",
+  "description": "Credit card intelligence for Claude. Find and compare cards, optimize rewards. Covers break-even calculations, renewal questions, and merchant intelligence.",
+  "author": {
+    "name": "KoKo Finance",
+    "url": "https://kokofinance.net"
+  },
+  "homepage": "https://kokofinance.net/developers.html",
+  "repository": "https://github.com/KokoFinance/koko-credit-card-plugin",
+  "license": "MIT",
+  "keywords": ["credit-cards", "finance", "rewards", "portfolio"]
+}
